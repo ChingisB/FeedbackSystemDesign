@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FeedbackSystemDesign</string>
+
+    <string name="feedback_reason">Please select options that influenced your answer</string>
+    <string name="feedback_please_enter">Add a comment</string>
+    <string name="feedback_send">Save your feedback</string>
+</resources>
